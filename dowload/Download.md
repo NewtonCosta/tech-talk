@@ -7,3 +7,4 @@
 * **Tech Talk # 4** -  Dropshipping Overview (Manuel Cambota) <a href="https://drive.google.com/open?id=1PmG7Si_wI5lZ8kVc2l4ec5C24WRscGCf" target="_blank">[ Download ]</a>
 * **Tech Talk # 5** -  RPA Robotic Process Automation - Overview (Manuel Cambota) <a href="https://drive.google.com/file/d/1nlL1mQyc9b0b8PHadZM8AO1BpLlhRWZ2/view?usp=sharing" target="_blank">[ Download ]</a>
 * **Tech Talk # 6** -  IaC - Big Picture (Newton Costa) <a href="https://drive.google.com/file/d/14ALvhhhDlOtR6ovA1UvPM2T6IaojOyoG/view?usp=sharing" target="_blank">[ Download ]</a>
+* **Tech Talk # 7** -  Teorema CAP (Romário Ângelo) <a href="https://drive.google.com/file/d/1_gaiT6cuWMZKshgLyIn4IPO-ovP5QZ5K/view?usp=sharing" target="_blank">[ Download ]</a>
