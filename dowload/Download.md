@@ -10,4 +10,4 @@
 * **Tech Talk # 7** -  Teorema CAP (Romário Ângelo) <a href="https://drive.google.com/file/d/1_gaiT6cuWMZKshgLyIn4IPO-ovP5QZ5K/view?usp=sharing" target="_blank">[ Download ]</a>
 * **Tech Talk # 8** -  Conceitos de Machine Learning com Python (Edem Mpiana) <a href="https://drive.google.com/file/d/1qoEI8pH_qcDmlwYVjTRW25PxAg77HqcC/view?usp=sharing" target="_blank">[ Download 1]</a> | <a href="https://drive.google.com/file/d/1RAevzb7eFK0KmFQcONaPWsHBgfiAZEZ1/view?usp=sharing" target="_blank">[ Download 2]</a> | <a href="https://drive.google.com/file/d/1z-CSnbXCaaN99ChXst8NsG8vHUyUr4Bd/view?usp=sharing" target="_blank">[ Download 3]</a>
 * **Tech Talk # 9** - Develop Web App Ridiculously fast (Martins Isata) <a href="https://drive.google.com/file/d/1PsaeUE1MiwSV3dN5jdqbcPiZjXyMf6u6/view?usp=sharing" target="_blank">[ Download ]
-* **Tech Talk # 10** - Automação Residencial (Manuel Cambota) <a href="" target="_blank">[ Download 1 ]<a href="" target="_blank">[ Download 2 ]
+* **Tech Talk # 10** - Automação Residencial (Manuel Cambota) <a href="" target="_blank">[ Download 1 ] <a href="" target="_blank">[ Download 2 ]
