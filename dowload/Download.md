@@ -14,3 +14,4 @@
 * **Tech Talk # 11** - JMETER Testando a performance de páginas Web de forma Simples (Mawer Cardoso) <a href="https://drive.google.com/file/d/1gkFOqUadiSgQCjAKaf0w7uXqMgJRD4wd/view?usp=sharing" target="_blank">[ Download 1 ]</a><a href="https://drive.google.com/file/d/1wVuBDvie4xxs_3ICEgYn4LZUn6MljDLL/view?usp=sharing" target="_blank">[ Download 2 ]</a>
 * **Tech Talk # 12** - Modern Static Websites (Newton Costa) <a href="" target="_blank">[ Download ]</a>
 * **Tech Talk # 13** - Sistemas distribuídos e sua interoperabilidade (Damásio Sabino) <a href="" target="_blank">[ Download ]</a>
+* **Tech Talk # 14** - Padrão repositório - Práticas NoSQL em Bancos relacionais (Romário Ângelo) <a href="https://drive.google.com/file/d/1R6I29vIW-d8si0Q7pgn4ljKzF0rfvvye/view?usp=sharing" target="_blank">[ Download ]</a>
