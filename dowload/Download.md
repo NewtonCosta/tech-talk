@@ -15,6 +15,7 @@
 * **Tech Talk # 12** - Modern Static Websites (Newton Costa) <a href="" target="_blank">[ Download ]</a>
 * **Tech Talk # 13** - Sistemas distribuídos e sua interoperabilidade (Damásio Sabino) <a href="https://drive.google.com/file/d/1gPi9_KLW3KhZI4mQNWWfUBXHf6rsoWkp/view?usp=sharing" target="_blank">[ Download ]</a>
 * **Tech Talk # 14** - Padrão repositório - Práticas NoSQL em Bancos relacionais (Romário Ângelo) <a href="https://drive.google.com/file/d/1R6I29vIW-d8si0Q7pgn4ljKzF0rfvvye/view?usp=sharing" target="_blank">[ Download ]</a>
-* **Tech Talk # 15** - Persistência poliglota (Édem Mpiana) <a href="" target="_blank">[ Download ]</a>
+* **Tech Talk # 15** - Persistência poliglota (Édem Mpiana) <a href="https://drive.google.com/file/d/1kwdr3EaplN6mWFwxPC4ZS0Oqhmd3gZ66/view?usp=sharing" target="_blank">[ Download 1 ]</a> | <a href="https://drive.google.com/file/d/1KQcI6SBpIttJqbc7izkhb-xqidsTeoDd/view?usp=sharing" target="_blank">[ Download 2 ]</a>
+
 
 
