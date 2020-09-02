@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web & Geolocation</title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+   
+    <link rel="stylesheet" href="./css/style.css">   
+    
+    <script>
+      $( function() {
+        var icons = {
+          header: "ui-icon-circle-arrow-e",
+          activeHeader: "ui-icon-circle-arrow-s"
+        };
+        $( "#accordion" ).accordion({
+          icons: icons
+        });
+        $( "#toggle" ).button().on( "click", function() {
+          if ( $( "#accordion" ).accordion( "option", "icons" ) ) {
+            $( "#accordion" ).accordion( "option", "icons", null );
+          } else {
+            $( "#accordion" ).accordion( "option", "icons", icons );
+          }
+        });
+      } );
+      </script>
+</head>
+
+<body>
+  <div class="topnav">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/API/Geolocation">HTML 5 Geolocation</a>
+    <a href="#">Google Maps</a>
+    <a style="background-color: #6C63FF; color: #fff;" href="#">Exemplos</a>
+    <a href="index.html">Home</a>
+  </div>
+  
+  <div class="wrapper">
+    <div class="page-content">
+      <h2>HTML5 Geolocation + Google Maps</h2>
+    </div>
+    
+    <div id="accordion" class="centered">
+      <h3> Map com marcador</h3>
+      <div class="map-wrapper">
+        <div id="map-with-maker"></div>
+      </div>
+      <h3>Map with Marker Clustering</h3>
+      <div class="map-wrapper">
+        <div id="map-marker-clustering">
+        <img class="img-map" src="https://maps.googleapis.com/maps/api/staticmap?center=Brooklyn+Bridge,New+York,NY&zoom=13&size=600x300&maptype=roadmap
+        &markers=color:blue%7Clabel:S%7C40.702147,-74.015794&markers=color:green%7Clabel:G%7C40.711614,-74.012318
+        &markers=color:red%7Clabel:C%7C40.718217,-73.998284
+        &key=AIzaSyAezdKjLeqB-080TI8RXvXViHZ9PV3b3xo" alt=""></div>
+      </div>
+      <h3>Section 3</h3>
+      <div>
+        <p>Nam enim risus, molestie et, porta ac, aliquam ac, risus. Quisque lobortis. Phasellus pellentesque purus in massa. Aenean in pede. Phasellus ac libero ac tellus pellentesque semper. Sed ac felis. Sed commodo, magna quis lacinia ornare, quam ante aliquam nisi, eu iaculis leo purus venenatis dui. </p>
+        <ul>
+          <li>List item one</li>
+          <li>List item two</li>
+          <li>List item three</li>
+        </ul>
+      </div>
+      <h3>Geocoding</h3>
+      <div>
+        <p>Cras dictum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean lacinia mauris vel est. </p><p>Suspendisse eu nisl. Nullam ut libero. Integer dignissim consequat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. </p>
+      </div>
+      <h3>Section 5</h3>
+      <div>
+        <p>Cras dictum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean lacinia mauris vel est. </p><p>Suspendisse eu nisl. Nullam ut libero. Integer dignissim consequat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. </p>
+      </div>
+      <h3>Section 6</h3>
+      <div>
+        <p>Cras dictum. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean lacinia mauris vel est. </p><p>Suspendisse eu nisl. Nullam ut libero. Integer dignissim consequat lectus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. </p>
+      </div>
+    </div>
+
+
+
+
+  </div>
+ 
+<!--  
+  <div class="footer">
+    <p>Copyright &copy; Newton Costa 2020</p>
+  </div>
+   -->
+
+
+  <!-----------------Script Area------------------->
+  <!-- <script src="/maps/documentation/javascript/examples/markerclusterer/markerclustererplus@4.0.1.min.js">
+  </script> -->
+  <script src="./script/js.js"></script>
+</body>
+
+</html>
